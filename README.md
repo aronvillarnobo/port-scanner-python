@@ -24,6 +24,7 @@ A professional Python-based TCP port scanner designed for ethical hacking and ne
    git clone https://github.com/aronvillarnobo/port-scanner-python.git
 
 1.	**Run the tool**:
+
    **Windows:**
    ```bash
    python port_scanner_v2.py
